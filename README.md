@@ -6,3 +6,9 @@
 **Team Leader:** Prathyush Krishnen J
 
 **Team Members:** Abhishek B, Adithya R, Ramkumar K
+
+**Project Objectives:** 
+- Work with Watson Assistant
+- Create Skills  in Watson Assistant
+- Use Entities, Intents, Dialogues
+- Deploy skill to generate a preview link
