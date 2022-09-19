@@ -1,5 +1,8 @@
 # IBM-Project-19308-1659695939
-### AI based discourse for Banking Industry
+## AI based discourse for Banking Industry
+### Technology: Artificial Intelligence
+**Team ID:** PNT2022TMID27838
+
 **Team Leader:** Prathyush Krishnen J
 
 **Team Members:** Abhishek B, Adithya R, Ramkumar K
