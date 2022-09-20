@@ -32,10 +32,13 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 ![image](https://user-images.githubusercontent.com/57994522/191175131-9a5742fc-a728-4282-83d5-74d4c2dc7035.png)
 
-**Tasks**
-- [x] Literature Survey
-- [x] Problem Statement
-- [x] Empathy Map
-- [x] Brainstorm
-- [x] Top 3 Ideas
+### Tasks
+
+- Project Design & Planning
+  - Ideation Phase
+    - [x] Literature Survey
+    - [x] Problem Statement
+    - [x] Empathy Map
+    - [x] Brainstorm
+    - [x] Top 3 Ideas
 
