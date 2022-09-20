@@ -3,6 +3,8 @@
 ### Technology: Artificial Intelligence
 **Team ID:** PNT2022TMID27838
 
+**Batch:** B7 - 1A3E 
+
 **Team Leader:** Prathyush Krishnen J
 
 **Team Members:** Abhishek B, Adithya R, Ramkumar K
