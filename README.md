@@ -12,3 +12,12 @@
 - Create Skills  in Watson Assistant
 - Use Entities, Intents, Dialogues
 - Deploy skill to generate a preview link
+
+**Services Used:**
+- IBM Watson Assistant
+
+
+**Technical Architecture:**
+
+![image](https://user-images.githubusercontent.com/57994522/191175131-9a5742fc-a728-4282-83d5-74d4c2dc7035.png)
+
