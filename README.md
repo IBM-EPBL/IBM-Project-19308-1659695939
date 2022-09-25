@@ -40,4 +40,8 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
     - [x] Empathy Map
     - [x] Brainstorm
     - [x] Top 3 Ideas
+  - Project Design Phase 1
+    - [x] Proposed Solution
+    - [ ] Problem-Solution Fit
+    - [ ] Solution Architecture
 
