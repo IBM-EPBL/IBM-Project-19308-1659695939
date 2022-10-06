@@ -42,6 +42,6 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
     - [x] Top 3 Ideas
   - Project Design Phase 1
     - [x] Proposed Solution
-    - [ ] Problem-Solution Fit
+    - [x] Problem-Solution Fit
     - [ ] Solution Architecture
 
