@@ -21,7 +21,7 @@
   - Project Design Phase 1
     - [x] Proposed Solution
     - [x] Problem-Solution Fit
-    - [ ] Solution Architecture
+    - [x] Solution Architecture
   - Project Design Phase 2
     - [ ] Customer Journey Maps
     - [ ] Functional Requirements
