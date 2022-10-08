@@ -9,6 +9,34 @@
 
 **Team Members:** Abhishek B, Adithya R, Ramkumar K
 
+### Tasks
+
+- Project Design & Planning
+  - Ideation Phase
+    - [x] Literature Survey
+    - [x] Problem Statement
+    - [x] Empathy Map
+    - [x] Brainstorm
+    - [x] Top 3 Ideas
+  - Project Design Phase 1
+    - [x] Proposed Solution
+    - [x] Problem-Solution Fit
+    - [ ] Solution Architecture
+  - Project Design Phase 2
+    - [ ] Customer Journey Maps
+    - [ ] Functional Requirements
+    - [ ] Data Flow Diagrams
+    - [ ] Technology Architecture
+    
+    
+### Assignments
+
+- [x] Assignment 1
+- [x] Assignment 2
+- [x] Assignment 3
+    
+### About The Project
+
 **Project Description:**
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
@@ -31,17 +59,3 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 **Technical Architecture:**
 
 ![image](https://user-images.githubusercontent.com/57994522/191175131-9a5742fc-a728-4282-83d5-74d4c2dc7035.png)
-### Tasks
-
-- Project Design & Planning
-  - Ideation Phase
-    - [x] Literature Survey
-    - [x] Problem Statement
-    - [x] Empathy Map
-    - [x] Brainstorm
-    - [x] Top 3 Ideas
-  - Project Design Phase 1
-    - [x] Proposed Solution
-    - [x] Problem-Solution Fit
-    - [ ] Solution Architecture
-
