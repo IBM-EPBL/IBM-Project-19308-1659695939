@@ -25,7 +25,7 @@
   - Project Design Phase 2
     - [ ] Customer Journey Maps
     - [x] Functional Requirements
-    - [ ] Data Flow Diagrams
+    - [x] Data Flow Diagrams
     - [ ] Technology Architecture
     
     
