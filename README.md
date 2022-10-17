@@ -23,10 +23,10 @@
     - [x] Problem-Solution Fit
     - [x] Solution Architecture
   - Project Design Phase 2
-    - [ ] Customer Journey Maps
+    - [x] Customer Journey Maps
     - [x] Functional Requirements
     - [x] Data Flow Diagrams
-    - [ ] Technology Architecture
+    - [x] Technology Architecture
     
     
 ### Assignments
