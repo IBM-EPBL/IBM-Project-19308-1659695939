@@ -27,6 +27,9 @@
     - [x] Functional Requirements
     - [x] Data Flow Diagrams
     - [x] Technology Architecture
+  - Project Planning Phase
+    - [ ] Milestone & Activity List
+    - [ ] Sprint Delivery Plan
     
     
 ### Assignments
