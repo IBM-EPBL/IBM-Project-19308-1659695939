@@ -28,16 +28,22 @@
     - [x] Data Flow Diagrams
     - [x] Technology Architecture
   - Project Planning Phase
-    - [ ] Milestone & Activity List
-    - [ ] Sprint Delivery Plan
- 
-
+    - [x] Milestone & Activity List
+    - [x] Sprint Delivery Plan
+  - Project Development Phase
+    - [ ] Sprint 1
+    - [ ] Sprint 2
+    - [ ] Sprint 3
+    - [ ] Sprint 4
+  - Final Deliverables
+    - [ ] Main Folder
     
 ### Assignments
 
 - [x] Assignment 1
 - [x] Assignment 2
 - [x] Assignment 3
+- [x] Assignment 4
     
 ### About The Project
 
