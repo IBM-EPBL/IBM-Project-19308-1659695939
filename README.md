@@ -31,7 +31,7 @@
     - [x] Milestone & Activity List
     - [x] Sprint Delivery Plan
   - Project Development Phase
-    - [ ] Sprint 1
+    - [x] Sprint 1
     - [ ] Sprint 2
     - [ ] Sprint 3
     - [ ] Sprint 4
