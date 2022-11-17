@@ -9,8 +9,6 @@
 
 **Team Members:** Abhishek B, Adithya R, Ramkumar K
 
-**Project Link:** 👉 https://ibm-chatbot.prathkrish.repl.co/ 👈
-
 ### Tasks
 
 - Project Design & Planning
