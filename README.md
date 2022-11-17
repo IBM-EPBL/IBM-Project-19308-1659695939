@@ -38,7 +38,8 @@
     - [x] Sprint 3
     - [x] Sprint 4
   - Final Deliverables
-    - [ ] Main Folder
+    - [x] Source Code
+    - [x] Project Document
     
 ### Assignments
 
