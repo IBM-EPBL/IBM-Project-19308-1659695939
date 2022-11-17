@@ -1,5 +1,5 @@
-# IBM-Project-19308-1659695939
-## AI based discourse for Banking Industry
+#  💻 IBM-Project-19308-1659695939
+## 🤖 AI based discourse for Banking Industry
 ### Technology: Artificial Intelligence
 **Team ID:** PNT2022TMID27838
 
