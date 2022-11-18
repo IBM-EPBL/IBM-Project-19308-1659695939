@@ -38,6 +38,7 @@
   - Final Deliverables
     - [x] Source Code
     - [x] Project Document
+    - [x] Project Demo Video
     
 ### Assignments
 
